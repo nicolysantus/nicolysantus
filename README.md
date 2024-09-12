@@ -5,8 +5,9 @@
 
 <div align="justify"> Tenho 19 anos e sou apaixonada por tecnologia e desenvolvimento de software. Adoro codificar e encontrar soluções criativas para problemas. Meu foco está no desenvolvimento full-stack. </div>
 
+<br>
 
-**Gosto de criar aplicações que fazem a diferença na vida das pessoas.**
+**🚀 Gosto de criar aplicações que fazem a diferença na vida das pessoas.**
 
 <br>
 

@@ -15,7 +15,7 @@
 
 * 🌍 Localizada em São Paulo, Brasil
 * 👩🏻‍💻 Explorando novas tecnologias
-* 🧠 No momento, estou focada em desenvolver habilidades em C# e SQL Server
+* 🧠 No momento, estou focada em desenvolver habilidades em C# e .NET
 * 🤝 Aberta a colaborar em projetos com impacto significativo na vida das pessoas
 
 </div>

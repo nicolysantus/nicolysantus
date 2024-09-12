@@ -22,7 +22,7 @@
 * 🧠 No momento, estou focada em desenvolver habilidades em C# e .NET
 * 🤝 Aberta a colaborar em projetos com impacto significativo na vida das pessoas
 
------------------------------
+<br>
 
 <div align="center">
  

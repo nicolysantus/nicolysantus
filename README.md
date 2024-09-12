@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30">Olá, eu sou a<strong>&lt;Nicoly Santos /&gt;!</strong>
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30">Olá, eu sou a <strong>&lt;Nicoly Santos /&gt;!</strong>
 
 👩🏻‍💻 Desenvolvedora de Software :heavy_check_mark:
 -----------------------------

@@ -19,7 +19,7 @@
 
 * 🌍 Localizada em São Paulo, Brasil
 * 👩🏻‍💻 Explorando novas tecnologias
-* 🧠 No momento, estou focada em desenvolver habilidades em C# e .NET
+* 🧠 No momento, estou focada em desenvolver habilidades em React.js e .NET
 * 🤝 Aberta a colaborar em projetos com impacto significativo na vida das pessoas
 
 <br>

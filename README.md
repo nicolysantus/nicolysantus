@@ -3,7 +3,9 @@
 👩🏻‍💻 Desenvolvedora de Software :heavy_check_mark:
 -----------------------------
 
-<div align="justify"> Tenho 19 anos e sou apaixonada por tecnologia e desenvolvimento de software. Adoro codificar e encontrar soluções criativas para problemas. Meu foco está no desenvolvimento full-stack, **gosto de criar aplicações que fazem a diferença na vida das pessoas.** </div>
+<div align="justify"> Tenho 19 anos e sou apaixonada por tecnologia e desenvolvimento de software. Adoro codificar e encontrar soluções criativas para problemas. Meu foco está no desenvolvimento full-stack. </div>
+
+**Gosto de criar aplicações que fazem a diferença na vida das pessoas.**
 
 <br>
 

@@ -3,7 +3,7 @@
 👩🏻‍💻 Desenvolvedora de Software :heavy_check_mark:
 -----------------------------
 
-<div align="justify"> Tenho 19 anos e sou apaixonada por tecnologia e desenvolvimento de software. Adoro codificar e encontrar soluções criativas para problemas. Meu foco está no desenvolvimento full-stack. </div>
+<div align="justify"> Tenho 19 anos e sou apaixonada por tecnologia principalmente a área de desenvolvimento de software. Adoro codificar e encontrar soluções criativas para problemas. Meu foco está no desenvolvimento full-stack. </div>
 
 <br>
 
@@ -19,7 +19,7 @@
 
 * 🌍 Localizada em São Paulo, Brasil
 * 👩🏻‍💻 Explorando novas tecnologias
-* 🧠 No momento, estou focada em desenvolver habilidades em React.js e .NET
+* 🧠 No momento, estou focada em desenvolver habilidades em React e .NET
 * 🤝 Aberta a colaborar em projetos com impacto significativo na vida das pessoas
 
 <br>

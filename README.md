@@ -3,13 +3,11 @@
 👩🏻‍💻 Desenvolvedora de Software :heavy_check_mark:
 -----------------------------
 
-<div align="justify"> Tenho 20 anos, sou estudante de tecnologia e, atualmente, desenvolvedora back-end com foco em Java e Spring Boot.
+<div align="justify"> Tenho 20 anos, sou estudante de tecnologia e desenvolvedora back-end com foco em Java e Spring Boot ♨️.
 </div>
 
 <br>
-
 **🚀 Gosto de criar aplicações que fazem a diferença na vida das pessoas.**
-
 <br>
 
 <div align="justify"> 📚 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na <a href="https://www.mackenzie.br">Universidade Presbiteriana Mackenzie</a>.</div>

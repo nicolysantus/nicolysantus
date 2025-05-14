@@ -28,7 +28,7 @@
 
 <h3>💻 Meu Portfólio</h3>
 
-  ***Desenvolvido com React e SaaS***
+  ***🌸Desenvolvido com React e SaaS🌸***
 <a href="https://portfolionicoly.vercel.app" target="_blank" rel="noopener noreferrer">
   <button style="background-color: #ff66b2; color: white; padding: 12px 25px; border: none; border-radius: 8px; cursor: pointer; font-size: 16px;">
     Acesse aqui ⬅️

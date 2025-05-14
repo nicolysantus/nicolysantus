@@ -44,7 +44,6 @@
   <a href="https://github.com/nicolysantus">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nicolysantus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"></img>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolysantus&layout=compact&langs_count=7&theme=tokyonight"></img>
-   <img align="center" alt="intellij" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg"/>
   </a>
 
 <br>
@@ -76,6 +75,8 @@ src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"/>
 <img align="center" alt="git" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png">
 <img align="center" alt="visualstudio" height="40" width="40" src="https://img.icons8.com/color/48/000000/visual-studio--v2.png">
 <img align="center" alt="visualstudiocode" height="35" width="35" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png">
+<img align="center" alt="intellij" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg"/>
+
 
 </div>
 

@@ -67,7 +67,7 @@ Linguagens e Ferramentas:
 <img align="center" alt="react" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img align="center" alt="aws" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png">
 <img align="center" alt="sqlserver" width="40" height="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"/>  
-<img align="center" alt="mysql" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/> 
+<img align="center" alt="postgresql" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Postgresql_elephant.svg"/> 
 <img align="center" alt="azure" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png">
 <img align="center" alt="github" height="40" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg">
 <img align="center" alt="git" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png">

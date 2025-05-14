@@ -7,7 +7,9 @@
 </div>
 
 <br>
+
 **🚀 Gosto de criar aplicações que fazem a diferença na vida das pessoas.**
+
 <br>
 
 <div align="justify"> 📚 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na <a href="https://www.mackenzie.br">Universidade Presbiteriana Mackenzie</a>.</div>

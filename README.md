@@ -44,6 +44,7 @@
   <a href="https://github.com/nicolysantus">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nicolysantus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"></img>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolysantus&layout=compact&langs_count=7&theme=tokyonight"></img>
+   <img align="center" alt="intellij" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg"/>
   </a>
 
 <br>

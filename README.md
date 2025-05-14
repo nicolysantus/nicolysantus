@@ -12,7 +12,7 @@
 
 <br>
 
-<div align="justify"> 📚 Graduando Análise e Desenvolvimento de Sistemas na <a href="https://www.mackenzie.br">Universidade Presbiteriana Mackenzie</a>.</div>
+<div align="justify"> 📚 Cursando Análise e Desenvolvimento de Sistemas na <a href="https://www.mackenzie.br">Universidade Presbiteriana Mackenzie</a>.</div>
 
 <br>
 

@@ -26,16 +26,13 @@
 
 <br>
 
-<h3 style="font-size: 24px; color: #333;">💻 <strong>Meu Portfólio</strong></h3>
-<p style="font-size: 18px; color: #555;">Desenvolvido com <strong>React</strong> e <strong>SaaS</strong></p>
+<h3>💻 Meu Portfólio</h3>
+<p>
+  ***Desenvolvido com React e SaaS***
+</p>
 <a href="https://portfolionicoly.vercel.app" target="_blank" rel="noopener noreferrer">
-  <button style="background-color: #ff007f; color: white; padding: 15px 30px; border: none; border-radius: 8px; cursor: pointer; font-size: 18px; font-weight: bold; transition: background-color 0.3s;">
-    Acesse meu Portfólio
-  </button>
-</a>
-href="https://portfolionicoly.vercel.app" target="_blank" rel="noopener noreferrer">
   <button style="background-color: #ff66b2; color: white; padding: 12px 25px; border: none; border-radius: 8px; cursor: pointer; font-size: 16px;">
-    Acesse meu Portfólio
+    Acesse aqui ⬅️
   </button>
 </a>
 

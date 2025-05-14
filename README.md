@@ -12,7 +12,7 @@
 
 <br>
 
-<div align="justify"> 📚 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na <a href="https://www.mackenzie.br">Universidade Presbiteriana Mackenzie</a>.</div>
+<div align="justify"> 📚 Graduando Análise e Desenvolvimento de Sistemas na <a href="https://www.mackenzie.br">Universidade Presbiteriana Mackenzie</a>.</div>
 
 <br>
 
@@ -20,8 +20,8 @@
 
 * 🌍 Localizada em São Paulo, Brasil
 * ♨️ Trabalho na área de desenvolvimento back-end no banco Santander.
-* 👩🏻‍💻 Aperfeiçoando meu inglês
-* 🧠 No momento, estou focada em obter certificações e me especializar em Java e Spring Boot
+* 📚Aperfeiçoando meu inglês
+* 👩🏻‍💻 No momento, estou focada em obter certificações e me especializar em Java e Spring Boot
 * 🤝 Aberta a colaborar em projetos com impacto significativo na vida das pessoas
 
 <br>

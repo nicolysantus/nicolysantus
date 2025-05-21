@@ -15,8 +15,6 @@
 
 <br>
 
-`-----------------------------`
-
 <h3> :woman: &nbsp;Sobre mim </h3>
 
 * 🌍 Localizada em São Paulo, Brasil
@@ -24,8 +22,6 @@
 * 📚Aperfeiçoando meu inglês
 * 👩🏻‍💻 No momento, estou focada em obter certificações e me especializar em Java e Spring Boot
 * 🤝 Aberta a colaborar em projetos com impacto significativo na vida das pessoas
-
------------------------------
 
 <h3>💻 Meu Portfólio</h3>
 
@@ -36,7 +32,7 @@
   </button>
 </a>
 
------------------------------
+<br>
 
 <div align="center">
  

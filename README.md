@@ -27,6 +27,8 @@
 
 <br>
 
+-----------------------------
+
 <h3>💻 Meu Portfólio</h3>
 
   ***Desenvolvido com React e SaaS 👾***

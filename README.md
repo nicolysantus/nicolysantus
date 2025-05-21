@@ -14,6 +14,7 @@
 <div align="justify"> 📚 Cursando Análise e Desenvolvimento de Sistemas na <a href="https://www.mackenzie.br">Universidade Presbiteriana Mackenzie</a>.</div>
 
 <br>
+
 -----------------------------
 
 <h3> :woman: &nbsp;Sobre mim </h3>

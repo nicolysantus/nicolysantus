@@ -18,8 +18,8 @@
 <h3> :woman: &nbsp;Sobre mim </h3>
 
 * 🌍 Localizada em São Paulo, Brasil
-* ♨️ Trabalho na área de desenvolvimento back-end no banco <a
-href"https://www.f1rst.com.br/first/#/">Santander</a>.
+Brasil
+* ♨️ Trabalho na área de desenvolvimento back-end no banco <a href="https://www.f1rst.com.br/first/#/">Santander</a>.
 * 📚Aperfeiçoando meu inglês
 * 👩🏻‍💻 No momento, estou focada em obter certificações e me especializar em Java e Spring Boot
 * 🤝 Aberta a colaborar em projetos com impacto significativo na vida das pessoas

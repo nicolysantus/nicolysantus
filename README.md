@@ -2,7 +2,7 @@
 
 ### 👩🏻‍💻 Desenvolvedora de Software 
 
-<div align="justify"> Tenho 20 anos, sou estudante de tecnologia e desenvolvedora back-end com foco em Java e Spring Boot ♨️.
+<div align="justify"> Tenho 20 anos, sou estudante de tecnologia e desenvolvedora back-end com foco em Java e Spring Boot 💻.
 </div>
 
 <br>

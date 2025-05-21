@@ -25,8 +25,6 @@
 * 👩🏻‍💻 No momento, estou focada em obter certificações e me especializar em Java e Spring Boot
 * 🤝 Aberta a colaborar em projetos com impacto significativo na vida das pessoas
 
-<br>
-
 -----------------------------
 
 <h3>💻 Meu Portfólio</h3>

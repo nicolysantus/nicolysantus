@@ -22,6 +22,7 @@
 * 📚Aperfeiçoando meu inglês
 * 👩🏻‍💻 No momento, estou focada em obter certificações e me especializar em Java e Spring Boot
 * 🤝 Aberta a colaborar em projetos com impacto significativo na vida das pessoas
+* 🏆 Vice-campeã na Maratona de Programação Mackenzie 2025
 
 <br>
 
